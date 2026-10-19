@@ -1,0 +1,8 @@
+.git
+node_modules
+tests
+test-results
+README.md
+TEST_REPORT.md
+package.json
+package-lock.json
